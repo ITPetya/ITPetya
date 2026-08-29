@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# raw/intermediate photo stays local only — the public artifact is the ASCII SVG
+source-photo.*
+scripts/prepped-photo.png
